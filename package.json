@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-wxa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokeyzki/gitbook-wxa.git"
+  },
+  "author": "Charles Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokeyzki/gitbook-wxa/issues"
+  },
+  "homepage": "https://github.com/rokeyzki/gitbook-wxa#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
